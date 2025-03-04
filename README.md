@@ -1,0 +1,2 @@
+# Acessando API do YouTube 
+ Descrição: Fazer um programa que ao inserir um link de um canal do youtube ele retorne informações sobre aquele canal como um resumo. O tratamento de dados deve retornar para o usuário: 1 - Quantos vídeos ele tem num período de tempo. 2 - Quantidade de visualizações no mesmo período de tempo. 3 - Classificar tipo de conteúdo como: vídeos, shorts, lives e podcasts, quantos vídeos e quantas visualizações em cada tipo.
