@@ -4,7 +4,7 @@ import pandas as pd
 from googleapiclient.discovery import build
 from datetime import datetime
 
-YouTubeChaveAPI = "AIzaSyCLFgAW5cA_VHzS_gosfzDnXykMa5LdEZY"
+YouTubeChaveAPI = 
 YouTube = build('YouTube','V3',developerKey= YouTubeChaveAPI)
 playlistDoCanal = 'Arusu' # Canal M4rkim Blxck
 conparandoDatas = 20120604
